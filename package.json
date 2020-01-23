@@ -1,0 +1,19 @@
+{
+  "name": "reaviz",
+  "version": "1.0.0",
+  "description": "reaviz library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alexiastandish/reaviz-lib.git"
+  },
+  "author": "alexia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexiastandish/reaviz-lib/issues"
+  },
+  "homepage": "https://github.com/alexiastandish/reaviz-lib#readme"
+}
